@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://type-the-law.vercel.app/sitemap.xml
